@@ -1,1 +1,1 @@
-Sitemap: https://ergonyc.github.io/self-guided-learning/sitemap.xml
+Sitemap: https://github.com/ergonyc/self-guided-learning/sitemap.xml

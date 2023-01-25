@@ -1,17 +1,17 @@
 [
   {
-    "listing": "/domain-specific-series.html",
-    "items": [
-      "/0-The-Unix-Shell/series-introduction.html",
-      "/1-Reproducibility/series-introduction.html"
-    ]
-  },
-  {
     "listing": "/index.html",
     "items": [
       "/learning-resources.html",
       "/software-installs.html",
       "/domain-specific-series.html"
+    ]
+  },
+  {
+    "listing": "/domain-specific-series.html",
+    "items": [
+      "/0-The-Unix-Shell/series-introduction.html",
+      "/1-Reproducibility/series-introduction.html"
     ]
   }
 ]
