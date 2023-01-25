@@ -9,7 +9,11 @@
   },
   {
     "listing": "/learning-resources.html",
-    "items": []
+    "items": [
+      "/learning-resources-science.html",
+      "/learning-resources-frameworks.html",
+      "/learning-resources-tools.html"
+    ]
   },
   {
     "listing": "/domain-specific-series.html",
