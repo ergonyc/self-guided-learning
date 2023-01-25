@@ -2,10 +2,14 @@
   {
     "listing": "/index.html",
     "items": [
-      "/learning-resources.html",
       "/software-installs.html",
-      "/domain-specific-series.html"
+      "/domain-specific-series.html",
+      "/learning-resources.html"
     ]
+  },
+  {
+    "listing": "/learning-resources.html",
+    "items": []
   },
   {
     "listing": "/domain-specific-series.html",
